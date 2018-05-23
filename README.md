@@ -15,9 +15,9 @@ The program was very dense yet well structured and I learnt the following tech s
 - GitHub
 - Bash CLI
 
-GiftHub is the second of three projects I did during the bootcamp. It was created with my fellow Ironhacker @mbbaber , hope you enjoy it!
+GiftHub is the second of three projects I did during the bootcamp. It was created with my fellow Ironhacker @mbbaber, hope you enjoy it!
 
-### [>>Here's the game!](https://lucasm-git.github.io/duri-the-dwarf/)
+### [>>Here's the app!](https://ironhack-gifthub.herokuapp.com/groups/5ae3212634baaf0014d86c20/5ae320e334baaf0014d86c1e)
 
 
 ## Context
