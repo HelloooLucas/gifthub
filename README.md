@@ -21,8 +21,6 @@ GiftHub is the second of three projects I did during the bootcamp. It was create
 
 
 ## Context
-The 2nd project happened after five weeks of learning. At this point, we had covered:
-- 
 
 The insctructions were to create a
 
