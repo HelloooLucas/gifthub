@@ -1,6 +1,6 @@
 # Gi**f**tHub
 
-![Ironhack logo](./images/ironhack-logo.png)
+![Ironhack logo](./public/images/ironhack-logo.png)
 ## Ironhack Project #2
 From March to June 2018 I attended a **Full Stack Web Development Bootcamp** in Paris with [Ironhack](http://www.ironhack.com/en).
 
@@ -15,7 +15,7 @@ The program was very dense yet well structured and I learnt the following tech s
 - GitHub
 - Bash CLI
 
-GiftHub is the second of three projects I did during the bootcamp. It was created with my fellow Ironhacker @mbbaber, hope you enjoy it!
+GiftHub is the second of three projects I did during the bootcamp. It was created with my fellow Ironhacker @mbbaber , hope you enjoy it!
 
 ### [>>Here's the game!](https://lucasm-git.github.io/duri-the-dwarf/)
 
