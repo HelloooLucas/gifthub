@@ -21,8 +21,21 @@ GiftHub is the second of three projects I did during the bootcamp. It was create
 
 
 ## Context
+The 2nd project happened after five weeks of learning. At this point, we had covered:
+- advanced HTML 5 & CSS 3 manipulation
+- advanced JS manipulations
+- Handlebars
+- Heroku app hosting platform
+- back-end stack:
+  - Node.js 
+  - Express.js
+  - MongoDB
+  - Mongoose
 
-The insctructions were to create a
+The insctructions were to create an app that would:
+- require to create a data model with various Schemas
+- allow to signup/login/logout users with various levels of authorizations
+- take advantage of the CRUD (Create / Read / Update / Delete) methods over the app's data
 
 ## What is the app about?
 
