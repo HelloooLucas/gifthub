@@ -58,6 +58,8 @@ We basically created a set of models that would cross-reference each other to de
 
 For the "walls", we used two different Handlebars partials to display one's own wall and other regular walls.
 
+All CSS is done by hand.
+
 
 ## Summary
 This was the first paired project we had, and with it came a new layer of complexity: working with someone without conflicting with their code and breaking everything!
