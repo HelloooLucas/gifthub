@@ -41,8 +41,8 @@ The insctructions were to create an app that would:
 ## What is the app about?
 Making gifts can often be a headache, be it for close relatives or simple acquaintances. Our app aims to ease this process by making it collaborative, so everyone can add their 2 cents and come up with the best gift for everyone.
 
-Basically, the app works around "rooms", or events you're supposed to bring gifts at. People join the room, and have access to two things:
-- their own "wall", on which they can present with gift ideas they'd like for themselves
+Basically, the app works around "rooms", or events where you're supposed to bring gifts. People join the room, and have access to two things:
+- their own "wall", on which they can present gift ideas they'd like for themselves
 - other people's walls, on which they can:
   - see what people proposed for themselves
   - add gift ideas for them (without the person concerned being able to see it)
