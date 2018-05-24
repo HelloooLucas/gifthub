@@ -1,4 +1,4 @@
-# Gi**f**tHub
+# GiftHub
 
 ![Ironhack logo](./public/images/ironhack-logo.png)
 ## Ironhack Project #2
