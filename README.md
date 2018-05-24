@@ -37,14 +37,29 @@ The insctructions were to create an app that would:
 - allow to signup/login/logout users with various levels of authorizations
 - take advantage of the CRUD (Create / Read / Update / Delete) methods over the app's data
 
-## What is the app about?
 
+## What is the app about?
+Making gifts can often be a headache, be it for close relatives or simple acquaintances. Our app aims to ease this process by making it collaborative, so everyone can add their 2 cents and come up with the best gift for everyone.
+
+Basically, the app works around "rooms", or events you're supposed to bring gifts at. People join the room, and have access to two things:
+- their own "wall", on which they can present with gift ideas they'd like for themselves
+- other people's walls, on which they can:
+  - see what people proposed for themselves
+  - add gift ideas for them (without the person concerned being able to see it)
+  - chat with other people about gift ideas
+  - upvote gifts ideas. When they do, the list is rearranged to show most upvoted ideas at the top
+  - claim a gift, so that everybody knows who buys what
+  
+  This way, you don't have to come up with gift ideas on your own and can be sure everyone will have the gift that pleases them the most!
 
 
 ## How does the tech work under the hood?
 
 
+
 ## Summary
-This was 
+This was the first paired project we had, and with it came a new layer of complexity: working with someone without conflicting with their code and breaking everything!
+
+It also was our first project implying creating and back-end and managing data inside it. Creating the authorizations, the routes, the search mechanisms and display visibility was both a headache and passionating.
 
 Hope you enjoyed using it, and don't hesitate to give me any (constructive) feedback!
