@@ -54,7 +54,9 @@ Basically, the app works around "rooms", or events you're supposed to bring gift
 
 
 ## How does the tech work under the hood?
+We basically created a set of models that would cross-reference each other to determine who has access to what sections, who sees what and can modify what.
 
+For the "walls", we used two different Handlebars partials to display one's own wall and other regular walls.
 
 
 ## Summary
